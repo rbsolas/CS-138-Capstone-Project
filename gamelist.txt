@@ -1,27 +1,27 @@
-Lawbreakers
-Babylons_Fall
-Marvels_Avengers
-Battleborn
-Battlerite
-Gundam_Evolution
-Tom_Clancys_Ghost_Recon_Phantoms
-WildStar
-Spellbreak
-Quantum_League
-The_Cycle_Frontier
-Dreadnought
-Swords_of_Legends_Online
-Purple_War
-Vampire_The_Masquerade_Bloodhunt
-Evolve
-Storybook_Brawl
-Knockout_City
-Splitgate
-Orcs_Must_Die_Unchained
-War_of_the_Vikings
-Deathgarden_BLOODHARVEST
-Fractured_Space
-Duelyst
-Star_Wars_Battlefront_2
-TERA
-Bleeding_Edge
+Lawbreakers 2018 09 14
+Babylons_Fall 2023 02 27
+Marvels_Avengers 2023 09 30
+Battleborn 2017 10 23
+Battlerite 2019 10 23
+Gundam_Evolution 2023 11 29
+Tom_Clancys_Ghost_Recon_Phantoms 2016 12 01
+WildStar 2018 11 28
+Spellbreak 2023 01 31
+Quantum_League 2023 12 15
+The_Cycle_Frontier 2023 09 27
+Dreadnought 2023 07 12
+Swords_of_Legends_Online 2023 06 30
+Purple_War 2023 11 30
+Vampire_The_Masquerade_Bloodhunt 2023 05 15
+Evolve 2018 09 03
+Storybook_Brawl 2023 05 01
+Knockout_City 2023 06 06
+Splitgate 2022 09 30
+Orcs_Must_Die_Unchained 2019 04 30
+War_of_the_Vikings 2017 02 28
+Deathgarden_BLOODHARVEST 2020 08 12
+Fractured_Space 2018 10 25
+Duelyst 2020 02 27
+Star_Wars_Battlefront_2 2020 04 29
+TERA 2022 06 30
+Bleeding_Edge 2021 01 29
